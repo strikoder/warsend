@@ -58,6 +58,7 @@ OK - Undeployed application at context path [/revshell]
 ## Tested on
 
 * Apache Tomcat 9
+* Apache Tomcat 7.0.88
 
 ## Usage
 
